@@ -1,0 +1,45 @@
+﻿{
+    "meta": {
+        "totalResults": 1
+    },
+    "ads": [
+        {
+            "id": "c6b9dbf3-a145-4ae7-aaa2-b6da782799ac",
+            "type": "Banner",
+            "width": 320,
+            "height": 50,
+            "length": 0,
+            "endDate": "6/4/2015 11:59:59 PM",
+            "assetType": "Image",
+            "assetUrl": "http://sylvanus.shoutz.com/bannerads/c6b9dbf3-a145-4ae7-aaa2-b6da782799ac-1.png",
+            "mimeType": null,
+            "clickThroughUrl": "http://www.drinkarriba.com",
+            "callBackUrl": "http://adtracker.shoutz.com/api/v1/clicks?adId=c6b9dbf3-a145-4ae7-aaa2-b6da782799ac&platform=Android",
+            "completeClickThroughUrl": "http://adserver.shoutz.com/api/v1/clickthru?type=Image&adId=c6b9dbf3-a145-4ae7-aaa2-b6da782799ac&platform=Android&url=http://www.drinkarriba.com",
+            "completeCallBackUrl": "http://www.drinkarriba.com&platform=Android",
+            "viewtag": "",
+            "yaptag": "https://adyapperstatic.blob.core.windows.net/onad/91DA446732?id=c-arriba_a-arriba640x100_p-Android",
+            "platform": "Android"
+        }
+    ],
+    "status": {
+
+        "code": 200,
+        "description": "OK",
+        "userMessage": "Success",
+        "logMessage": null
+    }
+} {
+    "IntValue": 5,
+    "FloatValue": 4.98,
+    "StringValue": "Simple Object",
+    "IntList": null,
+    "ObjectType": 0,
+    "ObjList": [
+        4,
+        7,
+        25,
+        34,
+        "asdf" 
+    ]
+}
